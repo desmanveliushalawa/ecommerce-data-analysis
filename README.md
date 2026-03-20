@@ -296,5 +296,15 @@ WHERE order_status = 'delivered';
 * Optimalisasi supply chain dan kerja sama dengan partner logistik dapat membantu mengurangi keterlambatan.
 * Monitoring delivery performance secara berkala penting untuk menjaga kualitas layanan dan kepuasan pelanggan.
 
+  ## 📁 Dataset
+
+Dataset yang digunakan dalam project ini adalah Brazilian E-Commerce Public Dataset (Olist).
+
+Source:
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+
+  
+
 
 
